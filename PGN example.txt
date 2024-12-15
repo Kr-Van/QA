@@ -1,0 +1,8 @@
+[Event ""]
+[Date ""]
+[Round ""]
+[White ""]
+[Black ""]
+[Result ""]
+[WhiteElo ""]
+[BlackElo ""]
